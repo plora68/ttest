@@ -1,0 +1,16 @@
+D:\vscode\c#\ETC\Iterator\bin\Debug\net5.0\Iterator.exe
+D:\vscode\c#\ETC\Iterator\bin\Debug\net5.0\Iterator.deps.json
+D:\vscode\c#\ETC\Iterator\bin\Debug\net5.0\Iterator.runtimeconfig.json
+D:\vscode\c#\ETC\Iterator\bin\Debug\net5.0\Iterator.runtimeconfig.dev.json
+D:\vscode\c#\ETC\Iterator\bin\Debug\net5.0\Iterator.dll
+D:\vscode\c#\ETC\Iterator\bin\Debug\net5.0\ref\Iterator.dll
+D:\vscode\c#\ETC\Iterator\bin\Debug\net5.0\Iterator.pdb
+D:\vscode\c#\ETC\Iterator\obj\Debug\net5.0\Iterator.csprojAssemblyReference.cache
+D:\vscode\c#\ETC\Iterator\obj\Debug\net5.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\c#\ETC\Iterator\obj\Debug\net5.0\Iterator.AssemblyInfoInputs.cache
+D:\vscode\c#\ETC\Iterator\obj\Debug\net5.0\Iterator.AssemblyInfo.cs
+D:\vscode\c#\ETC\Iterator\obj\Debug\net5.0\Iterator.csproj.CoreCompileInputs.cache
+D:\vscode\c#\ETC\Iterator\obj\Debug\net5.0\Iterator.dll
+D:\vscode\c#\ETC\Iterator\obj\Debug\net5.0\ref\Iterator.dll
+D:\vscode\c#\ETC\Iterator\obj\Debug\net5.0\Iterator.pdb
+D:\vscode\c#\ETC\Iterator\obj\Debug\net5.0\Iterator.genruntimeconfig.cache
